@@ -1,132 +1,109 @@
 
-# Geroncology  
-**Decentralized AI-Driven Prevention of Reproductive Cancers**  
-**$GERONCOLOGY | Base L2 | Pre-Launch Phase**
+## Overview
+We are building a cure for Cancer on Base. By integrating artificial intelligence (AI), nanotechnology, metabolic reprogramming, mutation prevention strategies, and blockchain technology, we seek to target cancer at the cellular level while disrupting the supportive tumor microenvironment (TME). Our goal is to create an open, transparent, and globally accessible framework for cancer eradication.
 
-> _“Reproductive cancers are metabolic and hormonal failures. We prevent them at the source — onchain, open-source, and patient-owned.”_  
+## Who We Are
 
-## Project Vision
+Geroncology is founded
+and led by Mutheu.base.eth a dedicated innovator in the crypto and biotech space. We are a lean, self-funded team committed to groundbreaking research at the convergence of biochemistry, AI, and decentralized technologies. Operating on principles of openness and community-driven progress, we prioritize ethical innovation and global impact.
 
-Geroncology is a **DeSci protocol** that **prevents reproductive cancers** by restoring **tumor suppression**, **hormonal homeostasis**, and **immune surveillance** in high-risk tissues.
+## Why We Exist
 
-We target the **2 year pre-malignancy window** in:
-- **Ovarian** (high-grade serous carcinoma)  
-- **Endometrial** (type I & II)  
-- **Cervical** (HPV-driven)  
-- **Prostate** (androgen-dependent)  
-- **Testicular** (germ cell tumors)
+Cancer continues to be a global health crisis, with conventional treatments often constrained by resistance, recurrence, and toxicity. The tumor microenvironment actively sustains tumor growth through immunosuppression, acidosis, angiogenesis, and metabolic adaptations. Geroncology was created to address these root mechanisms holistically, leveraging advanced tools to "kill" the pro-tumorigenic TME, reprogram cellular behavior, prevent evolutionary mutations, and ensure transparency via blockchain.
 
-Our thesis:  
-> **Reproductive cancers arise from chronic metabolic stress, estrogen/progesterone imbalance, and immune evasion. These are correctable — without surgery, without chemo, without patents.**
+## Why You Should Care
 
-## Scientific Foundation
+Cancer impacts everyone—directly or through loved ones. According to the latest global estimates from the International Agency for Research on Cancer (IARC) and American Cancer Society (2024 data for 2022), there were approximately **20 million new cancer cases** and **9.7 million cancer deaths** worldwide. Projections indicate that by 2050, new cases could rise to **35 million** annually due to population growth and aging.
 
-### 1. **Tumor Suppression via Glycolytic Reversal**
-Reproductive tumors are **glycolysis-addicted**. We target:
+The lifetime risk of developing cancer is substantial: globally, it is estimated at around **25%** (1 in 4 people) from birth to death, with variations by sex (higher in men) and region. In higher-development countries like the US, approximately **39-40%** of people will be diagnosed with cancer in their lifetime. No one is immune—risk factors include genetics, lifestyle, environment, and age—and early-onset cancers are rising in younger populations.
 
-| Pathway | Role in Reproductive Cancer | Intervention |
-|--------|-----------------------------|--------------|
-| **PFKFB3** | Drives fructose-6-P → F-1,6-BP in ovarian/endometrial cells | Open-source PFKFB3 inhibitors |
-| **LDHA** | Lactate export → acidic stroma → EMT in cervical Ca | LDHA siRNA (onchain delivery) |
-| **mTORC1** | Hyperactive in PTEN-mutated endometrial Ca | Rapamycin analogs + fasting-mimetics |
+These statistics underscore the urgency: cancer is a leading cause of death, straining healthcare systems and families worldwide. Innovative, accessible solutions are critical for a future where cancer is preventable or curable.<grok:render card_id="bbea62" card_type="image_card" type="render_searched_image">
+<argument name="image_id">5</argument>
+<argument name="caption">"Global cancer statistics infographic highlighting incidence and mortality (2022 data)"</argument>
+<argument name="size">"LARGE"</argument>
+</grok:render><grok:render card_id="1f62b4" card_type="image_card" type="render_searched_image">
+<argument name="image_id">6</argument>
+<argument name="caption">""</argument>
+<argument name="size">"LARGE"</argument>
+</grok:render>
 
-> *Outcome*: **Starvation of pre-malignant clones** in fallopian tube, endometrium, and prostate stroma.
+## Our Approach
 
-### 2. **Hormonal & pH Rebalance + Immune Priming**
-Chronic **estrogen dominance** and **acidosis** fuel progression:
+Geroncology's platform employs synergistic technologies for a multi-pronged attack on cancer:
 
-| Mechanism | Biomarker | Correction |
-|---------|---------|------------|
-| **Estrogen/Prog imbalance** | E2:P4 ratio > 15 | Progesterone receptor agonists (open-source) |
-| **NHE1 upregulation** | pHᵢ > 7.4 in tumor cells | Amiloride + bicarbonate |
-| **HPV E6/E7 immune evasion** | PD-L1⁺ cervical lesions | IL-15 + NK cell activation |
-| **Androgen receptor splicing** | AR-V7 in CRPC | Onchain AR degraders |
+- **Disrupting the Tumor Microenvironment (TME):** Using AI-optimized designs and nanotechnology to deliver agents that inhibit cancer-associated fibroblasts, immunosuppressive cells, and aberrant vascularization.<grok:render card_id="865d98" card_type="image_card" type="render_searched_image">
+<argument name="image_id">0</argument>
+<argument name="caption">""</argument>
+<argument name="size">"LARGE"</argument>
+</grok:render><grok:render card_id="31ede4" card_type="image_card" type="render_searched_image">
+<argument name="image_id">1</argument>
+<argument name="caption">""</argument>
+<argument name="size">"LARGE"</argument>
+</grok:render>
 
-> *Outcome*: **Restored immune clearance** of HPV-infected, BRCA-mutated, or PTEN-null cells.
+- **AI-Powered Innovation:** AI for rapid target discovery, nanoparticle engineering, predictive modeling of tumor evolution, and optimization of therapeutic strategies.
 
+- **Nanotechnology Delivery:** Precision nanoparticles exploiting tumor-specific features (e.g., enhanced permeability) for targeted payload release, including agents to modulate pH and metabolic pathways.
 
-## Reproductive Cancer Focus
+- **Metabolic Reprogramming Toward Alkalinity:** Targeting the Warburg effect and extracellular acidosis common in tumors. Our interventions aim to shift metabolic dependencies and pH dynamics to favor healthy cell function over cancer cell survival, through modulation of key enzymes and transporters.
 
-| Cancer | Incidence (Global) | 5-Yr Survival | Geroncology Target |
-|--------|--------------------|---------------|---------------------|
-| **Ovarian** | 314,000 | 45% | Fallopian tube glycolysis + BRCA1/2 immune priming |
-| **Endometrial** | 417,000 | 81% | Estrogen detoxification + pH normalization |
-| **Cervical** | 604,000 | 66% | HPV E7 degradation + NK activation |
-| **Prostate** | 1.4M | 98% (early) → 30% (metastatic) | mTORC1 + AR-V7 suppression |
-| **Testicular** | 74,000 | 95% | Lactate-driven seminoma prevention |
+- **Preventing Tumor Mutation:** Strategies to enhance genomic stability, reduce mutational drivers, and preempt resistance mechanisms.
 
-> **We don’t treat Stage IV. We stop Stage 0.**
+- **Blockchain Integration:** Utilizing blockchain for immutable data transparency, secure research collaboration, and decentralized governance of the project.
 
+## Biochemical Mechanisms
 
-## Why This Beats Big Pharma
+Our proposed therapies target core cancer hallmarks at the molecular level with rigorous biochemical grounding:
 
-| Big Pharma | Geroncology |
-|------------|-----------|
-| $400K PARP inhibitors (ovarian) | **$0** — prevention via open molecules |
-| 15-year patent on olaparib | **IPFS** — instant global access |
-| Trials exclude pre-malignancy | **Onchain screening** of high-risk cohorts |
-| 12% response rate = “success” | **50%+ prevention** in risk-stratified groups |
-| You pay. They own. | **You stake. You govern. You live.**
+- **Tumor Microenvironment (TME) Disruption and Normalization:** The TME is a complex ecosystem comprising cancer cells, immune cells (e.g., tumor-associated macrophages, regulatory T cells), cancer-associated fibroblasts (CAFs), endothelial cells, and extracellular matrix (ECM). It promotes tumor progression via hypoxia (low oxygen), acidosis, immunosuppression, and angiogenesis. Key mechanisms include:
 
-## Technical Architecture
+  - Activation of hypoxia-inducible factors (HIFs) leading to VEGF secretion and aberrant blood vessel formation.
 
-[Patient] → [ZK Upload: CA-125, HE4, PSA, HPV DNA, pH]
-            ↓
-     [Onchain Oracle: E2:P4, LDH, PFKFB3]
-            ↓
-   [AI Model: Reproductive Risk Score]
-            ↓
-[Prevention Protocol: Diet + Inhibitors + Monitoring]
-            ↓
-      [Feedback → Model Retraining]
+  - CAFs remodel ECM through matrix metalloproteinases (MMPs), increasing stiffness and facilitating invasion.
 
+  - Immunosuppressive signals (e.g., TGF-β, IL-10) recruit myeloid-derived suppressor cells and polarize macrophages to M2 phenotype, evading immune attack.
 
-- **Chain**: Base  
-- **Privacy**: zk-SNARKs (Nocturne)  
-- **Compute**: Akash  
-- **Governance**: `$GERONCOLOGY`  
-- **IP**: NFT-minted models
+  Our approach disrupts these by normalizing vascularization, inhibiting CAF activation, and restoring anti-tumor immunity.
 
+- **Metabolic Reprogramming and pH Modulation (Warburg Effect):** Cancer cells exhibit the Warburg effect—aerobic glycolysis despite oxygen availability—producing lactate and causing extracellular acidosis (pH ~6.5-7.0) while maintaining intracellular alkalinity (pH ~7.2-7.5). This reversed pH gradient drives proliferation, invasion, and resistance.
 
-## Token: $GERONCOLOGY
+  - Key enzymes: Upregulated hexokinase II (HKII) binds voltage-dependent anion channel (VDAC) on mitochondria, accelerating glucose phosphorylation; lactate dehydrogenase (LDH) converts pyruvate to lactate; monocarboxylate transporters (MCTs) export lactate/H+.
 
-| Parameter | Value |
-|---------|-------|
-| **Supply** | 1B (fixed) |
-| **Utility** | Bounties, compute, governance, access |
-| **Tax** | 1% → burn + treasury |
-| **Launch** | Clanker (fair) |
-| **Treasury Use** | Ovarian/endometrial micro-trials, biomarker dashboards |
+  - Acidosis activates proteases for ECM degradation and suppresses immune cells.
 
+  Our therapies aim to reprogram metabolism by targeting these pathways, shifting toward oxidative phosphorylation and normalizing pH to impair cancer advantages.<grok:render card_id="ee1cc4" card_type="image_card" type="render_searched_image">
+<argument name="image_id">3</argument>
+<argument name="caption">""</argument>
+<argument name="size">"LARGE"</argument>
+</grok:render><grok:render card_id="1e5c72" card_type="image_card" type="render_searched_image">
+<argument name="image_id">4</argument>
+<argument name="caption">""</argument>
+<argument name="size">"LARGE"</argument>
+</grok:render>
 
+- **Mutation Suppression:** Enhancing DNA repair (e.g., via PARP modulation) and reducing oxidative stress to limit hypermutation.
 
-## Pre-Launch Fundraising: $1.5M USDC
+- **Nanoscale Targeting:** Nanoparticles deliver siRNA or inhibitors to silence oncogenes or restore suppressors.
 
-**Goal**:  
-1. **Cohort 1**: 200 high-risk women (BRCA+, Lynch, HPV16+)  
-2. **v0.1 AI Model**: CA-125 + HE4 + pH → risk score  
-3. **Farcaster dApp**: Real-time prevention tracking  
-4. **IRB + Research-Use Pathway**
+## Vision and Commitment
 
-**Investors receive**:  
-- Pro-rata `$GERONCOLOGY`  
-- Governance  
-- Co-authorship  
-- Priority protocol access
+Geroncology envisions a future where cancer is curable through open, decentralized innovation. This project is fully self-funded using our own resources—no external investors or grants—to maintain independence and focus on scientific progress.
 
-## Team
+The entire initiative will be **open source**, with all research, code, models, and findings released publicly. This ensures global accessibility, allowing researchers, developers, and communities worldwide to build upon, verify, and deploy solutions. By making Geroncology a "super AI"-driven platform, we aim to harness collective intelligence for rapid advancements and widespread adoption.
 
-**Farcaster Scientists Collective**  
-- Contributors constitute of desci scientists   
-- Expertise: gynecologic oncology, bioinformatics, tokenomics  
-- No hierarchy. Only data, code, and results.
+## Contact the Founder
 
+For inquiries, collaborations, or discussions, reach out to the founder on Farcaster: https://farcaster.xyz/mutheu.base.eth
 
-## Join
+## Support Us
 
-1. **Stake USDC** → OncoShares → Allocation  
-2. **Upload biomarkers** → Earn `$GERONCOLOGY`  
-3. **Contribute** → PRs → Bounties → Co-author
+Geroncology is bootstrapped and community-supported. Your contributions will fuel open-source development, AI training, and research acceleration.
 
-**We are not waiting for permission.**  
-**We are preventing the next 20 million reproductive cancer deaths.**
+**Ethereum-compatible wallet (Base, Monad, Arbitrum, Celo, HyperEVM, BSC):**  
+`0x8F69c8eB92Ed068Aa577cE1847D568B39b0d9EBF`
+
+**Solana:**  
+`8GvsHMVeBkSDbGyZ6FFyXRVQgiTgSUEz7pSCZLDjZh8L`
+
+Thank you for helping us build a cancer-free world together. Cancer must end!!
+
