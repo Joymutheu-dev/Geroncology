@@ -17,29 +17,13 @@ Cancer impacts everyone—directly or through loved ones. According to the lates
 
 The lifetime risk of developing cancer is substantial: globally, it is estimated at around **25%** (1 in 4 people) from birth to death, with variations by sex (higher in men) and region. In higher-development countries like the US, approximately **39-40%** of people will be diagnosed with cancer in their lifetime. No one is immune—risk factors include genetics, lifestyle, environment, and age—and early-onset cancers are rising in younger populations.
 
-These statistics underscore the urgency: cancer is a leading cause of death, straining healthcare systems and families worldwide. Innovative, accessible solutions are critical for a future where cancer is preventable or curable.<grok:render card_id="bbea62" card_type="image_card" type="render_searched_image">
-<argument name="image_id">5</argument>
-<argument name="caption">"Global cancer statistics infographic highlighting incidence and mortality (2022 data)"</argument>
-<argument name="size">"LARGE"</argument>
-</grok:render><grok:render card_id="1f62b4" card_type="image_card" type="render_searched_image">
-<argument name="image_id">6</argument>
-<argument name="caption">""</argument>
-<argument name="size">"LARGE"</argument>
-</grok:render>
+These statistics underscore the urgency: cancer is a leading cause of death, straining healthcare systems and families worldwide. Innovative, accessible solutions are critical for a future where cancer is preventable or curable.
 
 ## Our Approach
 
 Geroncology's platform employs synergistic technologies for a multi-pronged attack on cancer:
 
-- **Disrupting the Tumor Microenvironment (TME):** Using AI-optimized designs and nanotechnology to deliver agents that inhibit cancer-associated fibroblasts, immunosuppressive cells, and aberrant vascularization.<grok:render card_id="865d98" card_type="image_card" type="render_searched_image">
-<argument name="image_id">0</argument>
-<argument name="caption">""</argument>
-<argument name="size">"LARGE"</argument>
-</grok:render><grok:render card_id="31ede4" card_type="image_card" type="render_searched_image">
-<argument name="image_id">1</argument>
-<argument name="caption">""</argument>
-<argument name="size">"LARGE"</argument>
-</grok:render>
+- **Disrupting the Tumor Microenvironment (TME):** Using AI-optimized designs and nanotechnology to deliver agents that inhibit cancer-associated fibroblasts, immunosuppressive cells, and aberrant vascularization.
 
 - **AI-Powered Innovation:** AI for rapid target discovery, nanoparticle engineering, predictive modeling of tumor evolution, and optimization of therapeutic strategies.
 
